@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T12:07:53.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qUEI5G62csv2eBYh7ymY" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-30T12:15:08.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tSHExaJdP3o8qt82vfoV" version="20.6.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -194,88 +194,97 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QujJszpKBiSLTuI_n7Ma-1" value="Dmoney" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QujJszpKBiSLTuI_n7Ma-2" value="Wazdi&lt;br&gt;Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QujJszpKBiSLTuI_n7Ma-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="500" as="sourcePoint" />
-            <mxPoint x="450" y="140" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="640" y="94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QujJszpKBiSLTuI_n7Ma-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="200" as="sourcePoint" />
-            <mxPoint x="700" y="200" as="targetPoint" />
+            <mxPoint x="240" y="104" as="sourcePoint" />
+            <mxPoint x="640" y="104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-5" value="Card Actiation and Reset API Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-4">
+        <mxCell id="QujJszpKBiSLTuI_n7Ma-5" value="&amp;nbsp;Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-4">
           <mxGeometry x="-0.1115" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QujJszpKBiSLTuI_n7Ma-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="240" as="sourcePoint" />
-            <mxPoint x="180" y="240" as="targetPoint" />
+            <mxPoint x="640" y="144" as="sourcePoint" />
+            <mxPoint x="240" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-7" value="Card Activation and Reset API Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-6">
+        <mxCell id="QujJszpKBiSLTuI_n7Ma-7" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-6">
           <mxGeometry x="0.0846" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-2" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Card Actiation and Reset&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="19" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-17" value="Dmoney" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-18" value="Wazdi&lt;br&gt;Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="182" y="305" as="sourcePoint" />
-            <mxPoint x="702" y="305" as="targetPoint" />
+            <mxPoint x="241" y="287" as="sourcePoint" />
+            <mxPoint x="641" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-9" value="Card Pin Reset Management API Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-8">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-20" value="&amp;nbsp;Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Etsi4tTs8HNjWbj87L0D-19">
           <mxGeometry x="-0.1115" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="702" y="345" as="sourcePoint" />
-            <mxPoint x="182" y="345" as="targetPoint" />
+            <mxPoint x="641" y="327" as="sourcePoint" />
+            <mxPoint x="241" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-11" value="Card Pin Reset Management API Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-10">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-22" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Etsi4tTs8HNjWbj87L0D-21">
           <mxGeometry x="0.0846" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-23" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Card Pin Reset&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="202" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-24" value="Dmoney" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="463" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-25" value="Wazdi&lt;br&gt;Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="463" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="183" y="415" as="sourcePoint" />
-            <mxPoint x="703" y="415" as="targetPoint" />
+            <mxPoint x="247" y="473" as="sourcePoint" />
+            <mxPoint x="647" y="473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-13" value="Card Pin Change API Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-12">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-27" value="&amp;nbsp;Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Etsi4tTs8HNjWbj87L0D-26">
           <mxGeometry x="-0.1115" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="702" y="455" as="sourcePoint" />
-            <mxPoint x="182" y="455" as="targetPoint" />
+            <mxPoint x="647" y="513" as="sourcePoint" />
+            <mxPoint x="247" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-15" value="Card Pin Change API Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QujJszpKBiSLTuI_n7Ma-14">
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-29" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Etsi4tTs8HNjWbj87L0D-28">
           <mxGeometry x="0.0846" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QujJszpKBiSLTuI_n7Ma-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="704" y="502" as="sourcePoint" />
-            <mxPoint x="704" y="102" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Etsi4tTs8HNjWbj87L0D-30" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Card Pin Change Transaction&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
