@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T17:32:19.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KLELHC94mpyo7_liDOyw" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-05T17:34:35.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iuavnzH0_08ZuWykB0LG" version="20.6.0" type="github" pages="6">
   <diagram id="ZSdZsxjgpzTPuJVNtXkF" name="ALL API">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,6 +127,37 @@
         </mxCell>
         <mxCell id="k3Lm_j1NebmqvO62pYfl-7" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Freeze/Unfreeze-Card Status Mgmt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="552" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-1" value="Dmoney" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="811" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-2" value="Wazdi&lt;br&gt;Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="811" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="821" as="sourcePoint" />
+            <mxPoint x="640" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-4" value="&amp;nbsp;Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gxtHG_-zQhZbb3OOf2N-3">
+          <mxGeometry x="-0.1115" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="861" as="sourcePoint" />
+            <mxPoint x="240" y="861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-6" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6gxtHG_-zQhZbb3OOf2N-5">
+          <mxGeometry x="0.0846" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gxtHG_-zQhZbb3OOf2N-7" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Card Info From APP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="728" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
